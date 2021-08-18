@@ -1,4 +1,4 @@
-from PIL import Image,ImageFilter
+from pip import Image,ImageFilter
 
 def read_image():
     # reading image ..
